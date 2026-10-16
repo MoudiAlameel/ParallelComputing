@@ -28,7 +28,3 @@ Each image is independent of the others, so the work can be split between worker
 
 1. firasaalsaidi, "Medina 27 Dates Hackathon Dataset v1," Kaggle, 2026. https://www.kaggle.com/datasets/firasaalsaidi/medina-27-dates-hackathon-dataset-v1
 2. M. F. Sajid, "Image-processing-using-Sequential-Parallel-and-distributed-computing," GitHub, 2025. https://github.com/faizan98515/Image-processing-using-Sequential-Parallel-and-distributed-computing
-
-## Team
-
-[Names of group members]
