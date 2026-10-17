@@ -8,7 +8,7 @@ This project speeds up a sequential image-processing program by running it in pa
 
 For every image in the dataset, the pipeline:
 
-1. Reads the image (OpenCV)
+1. Reads the image (OpenCV) (using a single core in the sequential code)
 2. Converts it to grayscale
 3. Applies a Gaussian blur (5x5)
 4. Runs Sobel edge detection and saves the edge image
